@@ -59,6 +59,7 @@ const EN = {
   work_cap_7: "Commercial space climate control",
   work_cap_8: "Large-scale VRF installation",
   work_cap_9: "Radiant floor installation",
+  work_cap_10: "Jamanca Clima's own fleet",
 
   rev_eyebrow: "Testimonials",
   rev_title: "What our customers say",

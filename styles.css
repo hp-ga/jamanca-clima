@@ -61,6 +61,7 @@ img,svg{display:block;max-width:100%}
 }
 .header-inner{display:flex;align-items:center;gap:28px;height:76px}
 .logo{display:flex;align-items:center;gap:11px;margin-right:auto}
+.logo-mark{height:40px;width:auto;display:block}
 .logo-word{display:flex;flex-direction:column;line-height:1.1}
 .logo-title{font-weight:700;font-size:1.05rem;letter-spacing:-.01em}
 .logo-sub{font-size:.62rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
@@ -323,6 +324,10 @@ img,svg{display:block;max-width:100%}
 .site-footer{background:var(--navy);color:rgba(255,255,255,.6);padding:44px 0}
 .footer-inner{display:flex;flex-wrap:wrap;align-items:center;gap:16px;justify-content:space-between}
 .footer-brand{display:flex;align-items:center;gap:10px;font-weight:700;color:#fff}
+.logo-mark-chip{
+  display:flex;align-items:center;justify-content:center;background:#fff;border-radius:8px;padding:4px 6px;
+}
+.logo-mark-chip .logo-mark{height:22px}
 .footer-note{font-size:.88rem;max-width:40ch}
 .footer-copy{font-size:.85rem}
 
