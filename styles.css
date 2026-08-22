@@ -16,10 +16,11 @@
 }
 
 *,*::before,*::after{box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;scroll-padding-top:77px}
 html,body{overflow-x:hidden}
 body{
   margin:0;
+  padding-top:77px;
   font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
   color:var(--ink);
   background:var(--paper);
@@ -54,7 +55,7 @@ img,svg{display:block;max-width:100%}
 
 /* ---- header ---- */
 .site-header{
-  position:sticky;top:0;z-index:50;
+  position:fixed;top:0;left:0;right:0;z-index:50;
   background:rgba(255,255,255,.78);
   backdrop-filter:saturate(180%) blur(14px);
   border-bottom:1px solid var(--line);
@@ -120,8 +121,8 @@ img,svg{display:block;max-width:100%}
 }
 
 .hero-visual{
-  position:absolute;top:50%;right:20px;transform:translateY(-50%);z-index:0;
-  width:300px;height:300px;pointer-events:none;
+  position:absolute;top:70px;right:20px;z-index:0;
+  width:260px;height:260px;pointer-events:none;
   display:flex;align-items:center;justify-content:center;
 }
 .hero-logo-mark{
@@ -350,8 +351,13 @@ img,svg{display:block;max-width:100%}
   .process{grid-template-columns:1fr}
   .hero{padding:88px 0 64px}
   .phone-pill span{display:none}
-  .header-inner{gap:12px}
+  .header-inner{gap:8px}
   .header-actions{gap:8px}
-  .header-actions > .btn-primary{display:none}
+  .header-actions > .btn-accent{display:none}
   .lang-toggle{padding:4px 7px;font-size:.72rem}
+  .logo-title{font-size:.85rem}
+  .logo-sub{display:none}
+}
+@media (max-width:400px){
+  .logo-word{display:none}
 }
