@@ -321,10 +321,7 @@ img,svg{display:block;max-width:100%}
 .site-footer{background:var(--navy);color:rgba(255,255,255,.6);padding:44px 0}
 .footer-inner{display:flex;flex-wrap:wrap;align-items:center;gap:16px;justify-content:space-between}
 .footer-brand{display:flex;align-items:center;gap:10px;font-family:'Montserrat',sans-serif;font-weight:800;text-transform:uppercase;letter-spacing:.02em;font-size:.95rem;color:#fff}
-.logo-mark-chip{
-  display:flex;align-items:center;justify-content:center;background:#fff;border-radius:8px;padding:4px 6px;
-}
-.logo-mark-chip .logo-mark{height:22px}
+.footer-logo-mark{height:28px}
 .footer-note{font-size:.88rem;max-width:40ch}
 .footer-copy{font-size:.85rem}
 
