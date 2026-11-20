@@ -1,9 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jamancaclima.com/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/en/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-installation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/bombas-de-calor/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/bombas-de-calor/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/heat-pump-installation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/bombas-de-calor/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/vrv-vrf/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/vmc/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/piso-radiante/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/manutencao-ar-condicionado/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/manutencao-ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-maintenance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/manutencao-ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/reparacao-ar-condicionado/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/reparacao-ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-repair/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/reparacao-ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado-amadora/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado-lisboa/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado-sintra/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado-oeiras/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/ar-condicionado-cascais/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/en/air-conditioning-installation/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-installation/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/en/air-conditioning-repair/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-repair/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/reparacao-ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/reparacao-ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/en/air-conditioning-maintenance/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/air-conditioning-maintenance/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/manutencao-ar-condicionado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/manutencao-ar-condicionado/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/en/heat-pump-installation/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jamancaclima.com/en/heat-pump-installation/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jamancaclima.com/bombas-de-calor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jamancaclima.com/bombas-de-calor/"/>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/blog/quanto-custa-instalar-ar-condicionado-2026/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/blog/bomba-de-calor-ou-caldeira/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/blog/apoios-incentivos-bombas-de-calor/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://jamancaclima.com/blog/</loc>
+    <lastmod>2026-11-20</lastmod>
   </url>
 </urlset>
